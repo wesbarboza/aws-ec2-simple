@@ -11,6 +11,7 @@ Repositório dedicado a criação de instancias AWS EC2 para fins de estudo..
 - configurar iam - se ja não estiver configurado
 
 ## Instalar AWS-CLI  
+
 ```bash
 curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv2.zip"
 unzip awscliv2.zip
@@ -48,4 +49,5 @@ ansible_ssh_private_key_file=~/.ssh/id_rsa
 ```
 
 ## Author Information  
+
 Weslley Barboza
