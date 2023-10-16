@@ -1,9 +1,0 @@
-criar bucket
-
-configurar iam - se ja nao tiver configurado
-
-criar chave:
-  ssh-keygen -t rsa -b 4096 -f ~/.ssh/id_rsa
-
-
-ssh -i ~/.ssh/id_rsa ubuntu@ip-pubico
